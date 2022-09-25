@@ -15,7 +15,7 @@ public class details {
 		 this.Pincode = Pincode;
 		 this.Mobileno = Mobileno;
 		 this.Email = Email;
-		 
+		  
 	 }
 	 public void printdetails () {
 		 System.out.println(Name);
